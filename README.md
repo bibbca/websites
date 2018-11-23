@@ -318,6 +318,7 @@
 - [Imgur](https://imgur.com/)
 - [Instagram](https://www.instagram.com/)
 - [Pixabay](https://pixabay.com/) - Shared images and photos (many without Copyright).
+- [Photopea](https://www.photopea.com/) - Online image manipilulation.
 - [Reaction gif albums](http://reactiongifsarchive.imgur.com/) - Library for Reddit's favorite reaction gifs.
 - [Unsplash](https://unsplash.com/) - A large collection of free photos.
 
@@ -384,6 +385,7 @@
 - [Know it all](https://know-it-all.io/) - Web list that helps you track what you know and what you don't about web development.
 - [lpaste](http://lpaste.net) - Pastebin.
 - [Overleaf](https://www.overleaf.com) - Online LaTeX editing.
+- [Photopea](https://www.photopea.com/) - Online image manipilulation.
 - [Protonmail](https://mail.protonmail.com/login) - Free secure Email hosted in Switzerland.
 - [Rawgit](http://rawgit.com/)
 - [Regex101](https://regex101.com/)
