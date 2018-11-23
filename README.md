@@ -262,7 +262,7 @@
 ## Machine learning
 
 - [CrowdAI](https://www.crowdai.org/) - Connects data science experts and enthusiasts with open data to solve specific problems, through challenges.
-- [DataQuest](https://www.dataquest.io/)
+- [DataQuest](https://www.dataquest.io/) - Learn Machine Learning and Data mining through hands on practice.
 - [Kaggle](https://www.kaggle.com/) - Site devoted to Data Analysis through Machine learning.
 
 ## Music
@@ -335,12 +335,12 @@
 
 ## Search
 
-- [Aminer](https://cn.aminer.org/)
+- [Aminer](https://cn.aminer.org/) - Search articles, scholars, and methods related to Data Mining.
 - [Bangs](https://duckduckgo.com/bang?)
 - [Duckduckgo](https://duckduckgo.com/) - Private Web Searching.
 - [Google scholar](https://scholar.google.nl/) - Easy searching for Academic Articles.
-- [Slant](https://www.slant.co/)
-- [Yandex](https://www.yandex.com/)
+- [Slant](https://www.slant.co/) - Online ranking of the best products for each category.
+- [Yandex](https://www.yandex.com/) - Search that is improved by machine learning.
 
 ## Services
 
@@ -353,10 +353,10 @@
 - [Codepen](https://codepen.io/) - Social development environment for front-end designers and developers.
 - [Facebook](https://www.facebook.com/)
 - [Google plus](https://plus.google.com/)
-- [Meetup](http://www.meetup.com/)
+- [Meetup](http://www.meetup.com/) - Find people with similar interests and hobbies.
 - [Reddit](https://www.reddit.com) - Reddit is a link sharing site with an extremely active comment section.
 - [Twitter](https://twitter.com) - Share messages in 250 characters or less.
-- [Whatsapp](https://web.whatsapp.com/)
+- [Whatsapp](https://web.whatsapp.com/) - Use whatsapp over the web.
 
 ## Startups
 
@@ -406,7 +406,7 @@
 ## Video
 
 - [Documentary addict](https://documentaryaddict.com/) - Watch free documentaries.
-- [Letterboxd](https://letterboxd.com)
+- [Letterboxd](https://letterboxd.com) - Track which movies you've watched.  Share suggestions with others.
 - [Streamable](https://streamable.com/) - Video sharing.
 - [Thought maybe](https://thoughtmaybe.com/?ref=producthunt) - Online library of films.
 - [Tube replay](http://www.tubereplay.com/) - Watch a [YouTube](https://www.youtube.com) video on a loop without pressing replay.
